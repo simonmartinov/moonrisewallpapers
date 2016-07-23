@@ -1,6 +1,41 @@
 {
 	"wallpapers": [
 		{
+			"name": "Sunrise",
+			"author": "Simon Martinov",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Sunrise.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 Simon Martinov. All rights reserved."
+		},
+		{
+			"name": "Sunrise_Cyan",
+			"author": "Simon Martinov",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Sunrise_Cyan.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 Simon Martinov. All rights reserved."
+		},
+		{
+			"name": "Sunrise_Green",
+			"author": "Simon Martinov",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Sunrise_Green.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 Simon Martinov. All rights reserved."
+		},
+		{
+			"name": "Sunrise_Purple",
+			"author": "Simon Martinov",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Sunrise_Purple.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 Simon Martinov. All rights reserved."
+		},
+		{
+			"name": "Sunrise_Red",
+			"author": "Simon Martinov",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Sunrise_Red.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 Simon Martinov. All rights reserved."
+		},
+		{
 			"name": "NightMoon",
 			"author": "Simon Martinov",
 			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/NightMoon.jpg",
