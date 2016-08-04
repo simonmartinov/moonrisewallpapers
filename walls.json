@@ -1,5 +1,110 @@
 {
 	"wallpapers": [
+			{
+			"name": "MoonBlend_Dark",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/MoonBlend_Dark.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "MoonBlend_Dark2",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/MoonBlend_Dark2.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "MoonBlend_Gold",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/MoonBlend_Gold.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "NightStar",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/NightStar.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "NightStar_Remix",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/NightStar_remix.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "White Pattern Shapes",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Patterns%20White.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "ShapeBlend_Blue",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/shapeblend_blue.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "ShapeBlend_Dark",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/shapeblend_dark.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "ShapeBlend_Dark2",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/shapeblend_dark2.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "ShapeBlend_Green",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/shapeblend_green.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "ShapeBlend_Grey",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/shapeblend_grey.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "ShapeBlend_Red",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/shapeblend_red.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "ShapeBlend_Teal",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/shapeblend_teal.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "ShapeBlend_Teal2",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/shapeblend_tealfull.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "ShapeBlend_White",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/shapeblend_white.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
 		{
 			"name": "Sunrise",
 			"author": "Simon Martinov",
