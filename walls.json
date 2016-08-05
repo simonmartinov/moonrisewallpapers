@@ -1,6 +1,104 @@
 {
 	"wallpapers": [
-			{
+		{
+			"name": "Atoms",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Blue",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Blue.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Blur",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Blur.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Blur2",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Blur2.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Blur3",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Blur3.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Blur4",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Blur4.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Blur5",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Blur5.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Dark",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Dark.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Dawn",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Dawn.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Dusk",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Dusk.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Neo",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Neo.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Atoms_Sun",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Atoms_Sun.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Clean",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Clean.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
+			"name": "Clean_Stripe",
+			"author": "CustomWorx",
+			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/Clean_Stripe.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Copyright 2016 CustomWorx. All rights reserved."
+		},
+		{
 			"name": "MoonBlend_Dark",
 			"author": "CustomWorx",
 			"url": "https://raw.githubusercontent.com/simonmartinov/moonrisewallpapers/master/MoonBlend_Dark.png",
